@@ -1,0 +1,12 @@
+{
+    "title" :   "Armas menu"    ,
+    "type"  :   "tool",
+    "tags"  :   "Fun",
+    "ignore" :
+    [
+     "*.psd",
+     "*.vcproj",
+     "*.svn*"
+    ]
+
+}
